@@ -11,4 +11,3 @@
 ---> these are the statements that are actually executed at runtime.They perform some operation or action(computation,input/output,assignment,function,call,control flow,etc.)      example -- loops,conditionals,function calls
 
 """
-# nothing to say
